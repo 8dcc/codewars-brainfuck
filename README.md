@@ -1,5 +1,5 @@
 # Brainfuck codewars
-**Brainfuck shit I made in codewars.**
+**Brainfuck stuff I made in codewars**
 
 - [Python codewars.](https://github.com/r4v10l1/codewars-python)
 - [Shell codewars.](https://github.com/r4v10l1/codewars-shell)
